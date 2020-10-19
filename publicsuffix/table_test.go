@@ -2,7 +2,7 @@
 
 package publicsuffix
 
-const numICANNRules = 7846
+const numICANNRules = 7847
 
 var rules = [...]string{
 	"ac",
@@ -788,6 +788,7 @@ var rules = [...]string{
 	"pro.cy",
 	"tm.cy",
 	"cz",
+	"com.cz",
 	"de",
 	"bund.de",
 	"dj",
@@ -9043,7 +9044,8 @@ var rules = [...]string{
 	"chayns.net",
 	"000webhostapp.com",
 	"0-6.no",
-	"biogen.com.cz",
+	"godaddysites.com",
+	"livejournal.com",
 }
 
 var nodeLabels = [...]string{
@@ -11483,6 +11485,7 @@ var nodeLabels = [...]string{
 	"githubcloudusercontent",
 	"githubusercontent",
 	"go",
+	"godaddysites",
 	"gotpantheon",
 	"govoffice",
 	"govoffice2",
@@ -11504,6 +11507,7 @@ var nodeLabels = [...]string{
 	"jpn",
 	"kasserver",
 	"kr",
+	"livejournal",
 	"liveonatt",
 	"lmpm",
 	"lpusercontent",
@@ -11666,7 +11670,6 @@ var nodeLabels = [...]string{
 	"webnode",
 	"webpark",
 	"wz",
-	"biogen",
 	"cloud",
 	"custom",
 	"cloud",
