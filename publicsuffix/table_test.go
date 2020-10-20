@@ -2,7 +2,7 @@
 
 package publicsuffix
 
-const numICANNRules = 7856
+const numICANNRules = 7857
 
 var rules = [...]string{
 	"ac",
@@ -5743,6 +5743,7 @@ var rules = [...]string{
 	"mil.ru",
 	"test.ru",
 	"abakan.ru",
+	"dvo.ru",
 	"nn.ru",
 	"rw",
 	"ac.rw",
@@ -17183,6 +17184,7 @@ var nodeLabels = [...]string{
 	"dagestan",
 	"dubna",
 	"dudinka",
+	"dvo",
 	"e-burg",
 	"edu",
 	"fareast",
