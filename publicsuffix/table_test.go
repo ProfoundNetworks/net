@@ -9572,6 +9572,8 @@ var rules = [...]string{
 	"ejoinme.org",
 	"shoplightspeed.com",
 	"adventistchurch.org",
+	"london.on.ca",
+	"nshealth.ca",
 }
 
 var nodeLabels = [...]string{
@@ -11759,6 +11761,7 @@ var nodeLabels = [...]string{
 	"nf",
 	"nl",
 	"ns",
+	"nshealth",
 	"nt",
 	"nu",
 	"on",
@@ -11810,6 +11813,7 @@ var nodeLabels = [...]string{
 	"gov",
 	"lib",
 	"library",
+	"london",
 	"gouv",
 	"gov",
 	"lib",
