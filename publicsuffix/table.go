@@ -2,7 +2,7 @@
 
 package publicsuffix
 
-const version = "profound.net's munged_effective_tld_names.dat, version 20220314-1"
+const version = "profound.net's munged_effective_tld_names.dat, version 20220314-2"
 
 const (
 	nodesBitsChildren   = 10
@@ -10650,7 +10650,7 @@ var children = [...]uint32{
 	0x92ca4b0,
 	0x92e24b2,
 	0x92e64b8,
-	0x2932e4b9,
+	0x932e4b9,
 	0x93324cb,
 	0x935e4cc,
 	0x936e4d7,
