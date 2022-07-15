@@ -2,7 +2,7 @@
 
 package publicsuffix
 
-const numICANNRules = 7872
+const numICANNRules = 7873
 
 var rules = [...]string{
 	"ac",
@@ -5420,6 +5420,7 @@ var rules = [...]string{
 	"dlugoleka.pl",
 	"elblag.pl",
 	"elk.pl",
+	"gda.pl",
 	"glogow.pl",
 	"gniezno.pl",
 	"gorlice.pl",
@@ -7981,11 +7982,11 @@ var rules = [...]string{
 	"vm.bytemark.co.uk",
 	"cafjs.com",
 	"mycd.eu",
+	"drr.ac",
+	"uwu.ai",
 	"carrd.co",
 	"crd.co",
-	"drr.ac",
 	"ju.mp",
-	"uwu.ai",
 	"ae.org",
 	"br.com",
 	"cn.com",
@@ -8539,6 +8540,8 @@ var rules = [...]string{
 	"*.moonscale.io",
 	"moonscale.net",
 	"iki.fi",
+	"ibxos.it",
+	"iliadboxos.it",
 	"impertrixcdn.com",
 	"impertrix.com",
 	"smushcdn.com",
@@ -8589,7 +8592,9 @@ var rules = [...]string{
 	"na4u.ru",
 	"iopsys.se",
 	"ipifony.net",
+	"iservschule.de",
 	"mein-iserv.de",
+	"schulplattform.de",
 	"schulserver.de",
 	"test-iserv.de",
 	"iserv.dev",
@@ -8839,6 +8844,7 @@ var rules = [...]string{
 	"hra.health",
 	"miniserver.com",
 	"memset.net",
+	"messerli.app",
 	"metacentrum.cz",
 	"cloud.metacentrum.cz",
 	"*.cloud.metacentrum.cz",
@@ -9632,6 +9638,8 @@ var rules = [...]string{
 	"it.com.ar",
 	"teamapp.com",
 	"myrec.com",
+	"bistumac.de",
+	"custhelp.com",
 }
 
 var nodeLabels = [...]string{
@@ -11285,6 +11293,7 @@ var nodeLabels = [...]string{
 	"framer",
 	"hasura",
 	"loginline",
+	"messerli",
 	"multibaas",
 	"netlify",
 	"noop",
@@ -12174,6 +12183,7 @@ var nodeLabels = [...]string{
 	"commentsold",
 	"connectresident",
 	"convertri",
+	"custhelp",
 	"datadetect",
 	"dattolocal",
 	"dattorelay",
@@ -12536,6 +12546,7 @@ var nodeLabels = [...]string{
 	"barsy",
 	"bayern",
 	"beepworld",
+	"bistumac",
 	"blogspot",
 	"bplaced",
 	"buchhandlung",
@@ -12554,6 +12565,7 @@ var nodeLabels = [...]string{
 	"in-butter",
 	"in-dsl",
 	"in-vpn",
+	"iservschule",
 	"justiz-bw",
 	"keymachine",
 	"lcube-server",
@@ -12565,6 +12577,7 @@ var nodeLabels = [...]string{
 	"nrw",
 	"online",
 	"rf-webworld",
+	"schulplattform",
 	"schulserver",
 	"speedpartner",
 	"square7",
@@ -13381,8 +13394,10 @@ var nodeLabels = [...]string{
 	"gov",
 	"gr",
 	"grosseto",
+	"ibxos",
 	"iglesias-carbonia",
 	"iglesiascarbonia",
+	"iliadboxos",
 	"im",
 	"imperia",
 	"is",
